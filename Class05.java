@@ -1,4 +1,4 @@
-package Java13;
+package myJava13;
 
 public class class05 {
 	public static void main(String[] args) {
