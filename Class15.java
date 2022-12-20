@@ -1,4 +1,4 @@
-package Java13;
+package myJava13;
 import java.io.*;
 import java.math.*;
 class ArgumentOutOfBound extends Exception{
