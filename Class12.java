@@ -1,4 +1,4 @@
-package Java13;
+package myJava13;
 class NotTriangleException extends Exception{
 }
 class EquilateralTriangle extends Exception{
