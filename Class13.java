@@ -1,4 +1,4 @@
-package Java13;
+package myJava13;
 import java.io.*;
 class Exception520 extends Exception{
 }
