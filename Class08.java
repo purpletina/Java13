@@ -1,4 +1,4 @@
-package Java13;
+package myJava13;
 
 class Ctest {
 	public static void test(int num, int den) throws ArithmeticException {
