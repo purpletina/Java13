@@ -1,4 +1,4 @@
-package Java13;
+package myJava13;
 public class class07 {
 	public static void test(int num, int den)throws ArithmeticException{
 		System.out.println(num+"/"+den+"="+num/den);
